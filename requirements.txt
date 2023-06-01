@@ -1,0 +1,15 @@
+asgiref==3.7.2
+Django==3.2.9
+numpy==1.24.3
+protobuf==4.21.12
+PyQt3D==5.15.5
+PyQt5==5.15.7
+PyQt5-sip==12.11.0
+PyQtChart==5.15.6
+PyQtDataVisualization==5.15.5
+PyQtNetworkAuth==5.15.5
+PyQtPurchasing==5.15.5
+PyQtWebEngine==5.15.6
+pytz==2023.3
+sqlparse==0.4.4
+TBB==0.2
